@@ -1,3 +1,3 @@
-# Criando-SPA
+# Criando-SPA (SvelteKit)
 
--- SvelteKit: criando uma SPA
+Curso: SvelteKit: criando uma SPA
